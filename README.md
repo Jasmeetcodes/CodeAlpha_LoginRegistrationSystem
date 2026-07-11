@@ -81,6 +81,9 @@ CodeAlpha_LoginRegistrationSystem/
 - **Task:** Task 2 - Login & Registration System
 
 ---
+##Output 
+<img width="1257" height="950" alt="image" src="https://github.com/user-attachments/assets/b546b92c-163d-43de-a590-67cb572a83dc" />
+
 
 ## Author
 
